@@ -6,3 +6,21 @@
 .wrapper {
   min-height: 100vh;
 }
+
+#light {
+  background-color: white;
+  color: black;
+}
+
+#dark {
+  background-color: black;
+  color: white;
+}
+
+#dark h1 {
+  color: green;
+}
+
+#light h1 {
+  color: blue;
+}
